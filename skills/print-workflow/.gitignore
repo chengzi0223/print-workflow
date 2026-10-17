@@ -1,0 +1,6 @@
+scripts/config.json
+scripts/.runtime/
+**/__pycache__/
+**/*.pyc
+verification/
+*.log
